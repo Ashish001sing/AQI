@@ -1,0 +1,47 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# === Python virtual environments and env files ===
+# Local virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# === Python/cache ===
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+.cache/
+
+# === Project caches and local outputs ===
+cache/
+data/*.csv
+data/*.json
+data/*.joblib
+models/*.joblib
+maps/
+
+# === IDE / OS ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# === Notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === Logs ===
+*.log
+
+# === Misc ===
+.bak
+
