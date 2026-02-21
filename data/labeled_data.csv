@@ -1,0 +1,5 @@
+location_id,latitude,longitude,aqi,pollution_source,month,pm2_5,pm10,no2,so2,o3,co,temperature,humidity,wind_speed,temp_humidity_index,pollution_wind_ratio
+LOC_001,28.6139,77.2090,1.2,Vehicular,1,55.0,120.0,40.0,12.0,30.0,0.8,22.5,55.0,3.2,0.65,0.40
+LOC_002,19.0760,72.8777,0.9,Industrial,2,45.0,90.0,35.0,10.0,25.0,0.7,26.0,60.0,2.8,0.70,0.32
+LOC_003,12.9716,77.5946,0.7,Agricultural,3,35.0,70.0,25.0,8.0,20.0,0.6,24.0,65.0,2.5,0.68,0.28
+LOC_004,22.5726,88.3639,1.4,Burning,4,65.0,140.0,50.0,15.0,35.0,0.9,30.0,70.0,3.5,0.75,0.45
