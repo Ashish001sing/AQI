@@ -12,6 +12,7 @@ joblib
 # Visualization
 plotly
 streamlit
+altair<5
 
 # Optional: geospatial
 geopandas
